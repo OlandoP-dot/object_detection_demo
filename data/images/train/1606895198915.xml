@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Square_A</folder>
+	<filename>1606895198915.png</filename>
+	<path>/home/orlando/PycharmProjects/ObjDetect/Square_A/1606895198915.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>670</width>
+		<height>365</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Amp_Meter</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>142</xmin>
+			<ymin>75</ymin>
+			<xmax>407</xmax>
+			<ymax>216</ymax>
+		</bndbox>
+	</object>
+</annotation>

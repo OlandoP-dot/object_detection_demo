@@ -1,0 +1,26 @@
+<annotation>
+	<folder>newMA</folder>
+	<filename>1606977328442.png</filename>
+	<path>/home/orlando/PycharmProjects/ObjDetect/newMA/1606977328442.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>670</width>
+		<height>365</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>MilliAmp_Meter</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>175</xmin>
+			<ymin>34</ymin>
+			<xmax>491</xmax>
+			<ymax>222</ymax>
+		</bndbox>
+	</object>
+</annotation>

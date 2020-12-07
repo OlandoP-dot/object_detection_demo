@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Square_V</folder>
+	<filename>1606895848210.png</filename>
+	<path>/home/orlando/PycharmProjects/ObjDetect/Square_V/1606895848210.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>670</width>
+		<height>365</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Volt_Meter</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>191</xmin>
+			<ymin>122</ymin>
+			<xmax>434</xmax>
+			<ymax>240</ymax>
+		</bndbox>
+	</object>
+</annotation>
