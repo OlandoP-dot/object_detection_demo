@@ -1,0 +1,26 @@
+<annotation>
+	<folder>newV</folder>
+	<filename>1606977868274.png</filename>
+	<path>/home/orlando/PycharmProjects/ObjDetect/newV/1606977868274.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>670</width>
+		<height>365</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Volt_Meter</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>178</xmin>
+			<ymin>49</ymin>
+			<xmax>294</xmax>
+			<ymax>304</ymax>
+		</bndbox>
+	</object>
+</annotation>
